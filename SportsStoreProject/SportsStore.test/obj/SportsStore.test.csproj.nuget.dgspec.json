@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/SportsStore.test.csproj": {}
+  },
+  "projects": {
+    "/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/SportsStore.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/SportsStore.test.csproj",
+        "projectName": "SportsStore.test",
+        "projectPath": "/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/SportsStore.test.csproj",
+        "packagesPath": "/Users/p.champ/.nuget/packages/",
+        "outputPath": "/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/p.champ/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

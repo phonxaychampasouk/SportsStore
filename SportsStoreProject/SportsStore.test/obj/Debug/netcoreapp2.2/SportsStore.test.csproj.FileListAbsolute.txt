@@ -1,0 +1,14 @@
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/Debug/netcoreapp2.2/SportsStore.test.csprojAssemblyReference.cache
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/Debug/netcoreapp2.2/SportsStore.test.csproj.CoreCompileInputs.cache
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/Debug/netcoreapp2.2/SportsStore.test.AssemblyInfoInputs.cache
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/Debug/netcoreapp2.2/SportsStore.test.AssemblyInfo.cs
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/Debug/netcoreapp2.2/SportsStore.test.dll
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/obj/Debug/netcoreapp2.2/SportsStore.test.pdb
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/SportsStore.test.deps.json
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/SportsStore.test.runtimeconfig.json
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/SportsStore.test.runtimeconfig.dev.json
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/SportsStore.test.dll
+/Users/p.champ/Desktop/MSSA/SportsStore/SportsStore.test/bin/Debug/netcoreapp2.2/SportsStore.test.pdb
